@@ -1,0 +1,12 @@
+[submodule "UserService"]
+	path = UserService
+	url = https://github.com/spandanx/Chitchat-user-service
+[submodule "WebsocketService"]
+	path = WebsocketService
+	url = https://github.com/spandanx/Chitchat-Websocket-Service
+[submodule "cloud-gateway"]
+	path = cloud-gateway
+	url = https://github.com/spandanx/Chitchat-cloud-gateway
+[submodule "registry"]
+	path = registry
+	url = https://github.com/spandanx/Chitchat-service-discovery
