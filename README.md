@@ -2,6 +2,16 @@
 
 This is an android chat application. It uses websocket connection for live chat.
 
+## Features
+ - One-to-one chat
+ - Group chat
+ - Chat with already registered contacts from phone contact
+ - get notification when someone sends message and the chat is not opened
+ - click on notification to navigate to the chat
+ - get messages when back online
+ - Rename group name
+ - retry option for failed message
+
 ## Technologies used
 
 Frontend - React Native
