@@ -45,7 +45,7 @@ Backend MicroServices -
 
 
 ### Step 1. Clone the repositories
-
+#### Frontend: https://github.com/spandanx/ChitChatReactNative
 
 
 ### Step 2. Install required softwares
